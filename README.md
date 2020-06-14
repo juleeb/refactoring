@@ -4,6 +4,8 @@ About the Project:
 
 Refactoring codes for Marketing Agency that follows accessibility standards.
 
+![picture](full-website.png)
+
 Description of Project:
 
 - Semantic HTML elements are used
